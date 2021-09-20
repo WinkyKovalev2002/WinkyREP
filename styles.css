@@ -10,9 +10,9 @@ p1 {
 p2 {
     font-family: Arial; color:yellow;
 }
-body {
+/*body {
     background-color: lightsalmon;
-}
+}*/
 #top {
     background: blue;
     height: 50vh;
