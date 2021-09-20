@@ -13,3 +13,12 @@ p2 {
 body {
     background-color: lightsalmon;
 }
+#top {
+    background: blue;
+    height: 50vh;
+  }
+  
+  #bottom {
+    background: yellow;
+    height: 50vh;
+  }
