@@ -5,9 +5,11 @@ p {
     font-family: Arial; color:palevioletred;
 }
 p1 {
+    background-color: white;
     font-family: Arial; color:blue;
 }
 p2 {
+    background-color: white;
     font-family: Arial; color:yellow;
 }
 /*body {
