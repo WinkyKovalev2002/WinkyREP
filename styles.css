@@ -18,9 +18,11 @@ p2 {
 #top {
     background: blue;
     height: 50vh;
+    backdrop-filter: blur(30px);
   }
   
   #bottom {
     background: yellow;
     height: 50vh;
+    backdrop-filter: blur(30px);
   }
