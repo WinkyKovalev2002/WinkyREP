@@ -1,28 +1,3 @@
-h1 {
-    font-size: 300%;
+body{
+    background-color: black;
 }
-p {
-    font-family: Arial; color:palevioletred;
-}
-p1 {
-    background-color: white;
-    font-family: Arial; color:blue;
-}
-p2 {
-    background-color: white;
-    font-family: Arial; color:yellow;
-}
-/*body {
-    background-color: lightsalmon;
-}*/
-#top {
-    background: blue;
-    height: 50vh;
-    backdrop-filter: blur(30px);
-  }
-  
-  #bottom {
-    background: yellow;
-    height: 50vh;
-    backdrop-filter: blur(30px);
-  }
